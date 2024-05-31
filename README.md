@@ -22,13 +22,13 @@ To close or start Codespaces. Close Codespace from the far bottom left Codespace
 
 ---
 
-[Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Wiki - Work plan](https://github.com/NFDI4Culture/CPS-Demo/wiki/Work-plan-and-existing-R&D)
+[Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Wiki - Work plan](https://github.com/pavex53/CPS-Demo/wiki/Work-plan-and-existing-R&D)
 
 ## Prototype: Exhibition catalogue publication
 
 Simon Worthington, [simon.worthington@tib.eu](mailto:simon.worthington@tib.eu), NFDI4Culture. Open Science Lab, TIB. 03.2024
 
-Demo and code: [https://github.com/NFDI4Culture/CPS-Demo](https://github.com/NFDI4Culture/CPS-Demo)
+Demo and code: [https://github.com/pavex53/CPS-Demo](https://github.com/pavex53/CPS-Demo)
 
 ## The service
 
@@ -54,7 +54,7 @@ The content of the demo will be a fictional exhibition catalogue of a collection
 
 ## Software Citation
 
-Worthington, S., & Bowie, S. (2024). Computational Publishing Service Demo (Version 0.0.1a) [Computer software]. https://github.com/NFDI4Culture/CPS-Demo
+Worthington, S., & Bowie, S. (2024). Computational Publishing Service Demo (Version 0.0.1a) [Computer software]. https://github.com/pavex53/CPS-Demo
 
 Add your name and ORCID in the CITATION.cff file to be attributed for your code contributions. Make a pull request after editing.
 
